@@ -117,36 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="Speak.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1091, 3</value>
-  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Speak.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
-  </data>
-  <data name="Speak.Size" type="System.Drawing.Size, System.Drawing">
-    <value>79, 67</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Speak.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;Speak.Name" xml:space="preserve">
-    <value>Speak</value>
-  </data>
-  <data name="&gt;&gt;Speak.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Speak.Parent" xml:space="preserve">
-    <value>tableLayoutPanel3</value>
-  </data>
-  <data name="&gt;&gt;Speak.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="richTextBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left, Right</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="richTextBox1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft YaHei, 12pt, style=Bold</value>
   </data>
@@ -154,8 +129,9 @@
     <value>3, 3</value>
   </data>
   <data name="richTextBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1357, 77</value>
+    <value>1422, 77</value>
   </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="richTextBox1.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
@@ -187,7 +163,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1363, 83</value>
+    <value>1428, 83</value>
   </data>
   <data name="tableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -202,7 +178,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="tableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="richTextBox1" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="AutoSize,0" /&gt;&lt;Rows Styles="AutoSize,0" /&gt;&lt;/TableLayoutSettings&gt;</value>
@@ -212,18 +188,6 @@
   </data>
   <data name="tableLayoutPanel2.ColumnCount" type="System.Int32, mscorlib">
     <value>11</value>
-  </data>
-  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>144, 3</value>
-  </data>
-  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="button1.Text" xml:space="preserve">
-    <value>button1</value>
   </data>
   <data name="&gt;&gt;button1.Name" xml:space="preserve">
     <value>button1</value>
@@ -237,18 +201,6 @@
   <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 64</value>
-  </data>
-  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button2.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="button2.Text" xml:space="preserve">
-    <value>button2</value>
-  </data>
   <data name="&gt;&gt;button2.Name" xml:space="preserve">
     <value>button2</value>
   </data>
@@ -260,21 +212,6 @@
   </data>
   <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
     <value>1</value>
-  </data>
-  <data name="button3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>144, 64</value>
-  </data>
-  <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button3.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="button3.Text" xml:space="preserve">
-    <value>button3</value>
   </data>
   <data name="&gt;&gt;button3.Name" xml:space="preserve">
     <value>button3</value>
@@ -288,21 +225,6 @@
   <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="button4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>285, 64</value>
-  </data>
-  <data name="button4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button4.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="button4.Text" xml:space="preserve">
-    <value>button4</value>
-  </data>
   <data name="&gt;&gt;button4.Name" xml:space="preserve">
     <value>button4</value>
   </data>
@@ -314,21 +236,6 @@
   </data>
   <data name="&gt;&gt;button4.ZOrder" xml:space="preserve">
     <value>3</value>
-  </data>
-  <data name="button5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 125</value>
-  </data>
-  <data name="button5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button5.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="button5.Text" xml:space="preserve">
-    <value>button5</value>
   </data>
   <data name="&gt;&gt;button5.Name" xml:space="preserve">
     <value>button5</value>
@@ -342,21 +249,6 @@
   <data name="&gt;&gt;button5.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="button6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>144, 125</value>
-  </data>
-  <data name="button6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button6.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="button6.Text" xml:space="preserve">
-    <value>button6</value>
-  </data>
   <data name="&gt;&gt;button6.Name" xml:space="preserve">
     <value>button6</value>
   </data>
@@ -368,21 +260,6 @@
   </data>
   <data name="&gt;&gt;button6.ZOrder" xml:space="preserve">
     <value>5</value>
-  </data>
-  <data name="button7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>285, 125</value>
-  </data>
-  <data name="button7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button7.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="button7.Text" xml:space="preserve">
-    <value>button7</value>
   </data>
   <data name="&gt;&gt;button7.Name" xml:space="preserve">
     <value>button7</value>
@@ -396,21 +273,6 @@
   <data name="&gt;&gt;button7.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="button27.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button27.Location" type="System.Drawing.Point, System.Drawing">
-    <value>144, 369</value>
-  </data>
-  <data name="button27.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button27.TabIndex" type="System.Int32, mscorlib">
-    <value>26</value>
-  </data>
-  <data name="button27.Text" xml:space="preserve">
-    <value>button27</value>
-  </data>
   <data name="&gt;&gt;button27.Name" xml:space="preserve">
     <value>button27</value>
   </data>
@@ -422,21 +284,6 @@
   </data>
   <data name="&gt;&gt;button27.ZOrder" xml:space="preserve">
     <value>7</value>
-  </data>
-  <data name="button28.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button28.Location" type="System.Drawing.Point, System.Drawing">
-    <value>285, 369</value>
-  </data>
-  <data name="button28.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button28.TabIndex" type="System.Int32, mscorlib">
-    <value>27</value>
-  </data>
-  <data name="button28.Text" xml:space="preserve">
-    <value>button28</value>
   </data>
   <data name="&gt;&gt;button28.Name" xml:space="preserve">
     <value>button28</value>
@@ -450,21 +297,6 @@
   <data name="&gt;&gt;button28.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="button26.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button26.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 369</value>
-  </data>
-  <data name="button26.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button26.TabIndex" type="System.Int32, mscorlib">
-    <value>25</value>
-  </data>
-  <data name="button26.Text" xml:space="preserve">
-    <value>button26</value>
-  </data>
   <data name="&gt;&gt;button26.Name" xml:space="preserve">
     <value>button26</value>
   </data>
@@ -476,21 +308,6 @@
   </data>
   <data name="&gt;&gt;button26.ZOrder" xml:space="preserve">
     <value>9</value>
-  </data>
-  <data name="button23.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button23.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 308</value>
-  </data>
-  <data name="button23.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button23.TabIndex" type="System.Int32, mscorlib">
-    <value>22</value>
-  </data>
-  <data name="button23.Text" xml:space="preserve">
-    <value>button23</value>
   </data>
   <data name="&gt;&gt;button23.Name" xml:space="preserve">
     <value>button23</value>
@@ -504,21 +321,6 @@
   <data name="&gt;&gt;button23.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="button24.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button24.Location" type="System.Drawing.Point, System.Drawing">
-    <value>144, 308</value>
-  </data>
-  <data name="button24.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button24.TabIndex" type="System.Int32, mscorlib">
-    <value>23</value>
-  </data>
-  <data name="button24.Text" xml:space="preserve">
-    <value>button24</value>
-  </data>
   <data name="&gt;&gt;button24.Name" xml:space="preserve">
     <value>button24</value>
   </data>
@@ -530,21 +332,6 @@
   </data>
   <data name="&gt;&gt;button24.ZOrder" xml:space="preserve">
     <value>11</value>
-  </data>
-  <data name="button25.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button25.Location" type="System.Drawing.Point, System.Drawing">
-    <value>285, 308</value>
-  </data>
-  <data name="button25.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button25.TabIndex" type="System.Int32, mscorlib">
-    <value>24</value>
-  </data>
-  <data name="button25.Text" xml:space="preserve">
-    <value>button25</value>
   </data>
   <data name="&gt;&gt;button25.Name" xml:space="preserve">
     <value>button25</value>
@@ -558,21 +345,6 @@
   <data name="&gt;&gt;button25.ZOrder" xml:space="preserve">
     <value>12</value>
   </data>
-  <data name="button22.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button22.Location" type="System.Drawing.Point, System.Drawing">
-    <value>144, 247</value>
-  </data>
-  <data name="button22.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button22.TabIndex" type="System.Int32, mscorlib">
-    <value>21</value>
-  </data>
-  <data name="button22.Text" xml:space="preserve">
-    <value>button22</value>
-  </data>
   <data name="&gt;&gt;button22.Name" xml:space="preserve">
     <value>button22</value>
   </data>
@@ -585,48 +357,6 @@
   <data name="&gt;&gt;button22.ZOrder" xml:space="preserve">
     <value>13</value>
   </data>
-  <data name="button8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>614, 3</value>
-  </data>
-  <data name="button8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button8.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="button8.Text" xml:space="preserve">
-    <value>button8</value>
-  </data>
-  <data name="&gt;&gt;button8.Name" xml:space="preserve">
-    <value>button8</value>
-  </data>
-  <data name="&gt;&gt;button8.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;button8.Parent" xml:space="preserve">
-    <value>tableLayoutPanel2</value>
-  </data>
-  <data name="&gt;&gt;button8.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="button9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>473, 64</value>
-  </data>
-  <data name="button9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button9.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="button9.Text" xml:space="preserve">
-    <value>button9</value>
-  </data>
   <data name="&gt;&gt;button9.Name" xml:space="preserve">
     <value>button9</value>
   </data>
@@ -637,22 +367,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button9.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="button10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>614, 64</value>
-  </data>
-  <data name="button10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button10.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="button10.Text" xml:space="preserve">
-    <value>button10</value>
+    <value>14</value>
   </data>
   <data name="&gt;&gt;button10.Name" xml:space="preserve">
     <value>button10</value>
@@ -664,22 +379,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button10.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
-  <data name="button11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>755, 64</value>
-  </data>
-  <data name="button11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button11.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="button11.Text" xml:space="preserve">
-    <value>button11</value>
+    <value>15</value>
   </data>
   <data name="&gt;&gt;button11.Name" xml:space="preserve">
     <value>button11</value>
@@ -691,22 +391,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button11.ZOrder" xml:space="preserve">
-    <value>17</value>
-  </data>
-  <data name="button12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>473, 125</value>
-  </data>
-  <data name="button12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button12.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="button12.Text" xml:space="preserve">
-    <value>button12</value>
+    <value>16</value>
   </data>
   <data name="&gt;&gt;button12.Name" xml:space="preserve">
     <value>button12</value>
@@ -718,22 +403,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button12.ZOrder" xml:space="preserve">
-    <value>18</value>
-  </data>
-  <data name="button13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button13.Location" type="System.Drawing.Point, System.Drawing">
-    <value>614, 125</value>
-  </data>
-  <data name="button13.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button13.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="button13.Text" xml:space="preserve">
-    <value>button13</value>
+    <value>17</value>
   </data>
   <data name="&gt;&gt;button13.Name" xml:space="preserve">
     <value>button13</value>
@@ -745,22 +415,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button13.ZOrder" xml:space="preserve">
-    <value>19</value>
-  </data>
-  <data name="button14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button14.Location" type="System.Drawing.Point, System.Drawing">
-    <value>755, 125</value>
-  </data>
-  <data name="button14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button14.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="button14.Text" xml:space="preserve">
-    <value>button14</value>
+    <value>18</value>
   </data>
   <data name="&gt;&gt;button14.Name" xml:space="preserve">
     <value>button14</value>
@@ -772,22 +427,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button14.ZOrder" xml:space="preserve">
-    <value>20</value>
-  </data>
-  <data name="button15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1084, 3</value>
-  </data>
-  <data name="button15.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button15.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="button15.Text" xml:space="preserve">
-    <value>button15</value>
+    <value>19</value>
   </data>
   <data name="&gt;&gt;button15.Name" xml:space="preserve">
     <value>button15</value>
@@ -799,22 +439,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button15.ZOrder" xml:space="preserve">
-    <value>21</value>
-  </data>
-  <data name="button16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>943, 64</value>
-  </data>
-  <data name="button16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button16.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="button16.Text" xml:space="preserve">
-    <value>button16</value>
+    <value>20</value>
   </data>
   <data name="&gt;&gt;button16.Name" xml:space="preserve">
     <value>button16</value>
@@ -826,22 +451,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button16.ZOrder" xml:space="preserve">
-    <value>22</value>
-  </data>
-  <data name="button17.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1084, 64</value>
-  </data>
-  <data name="button17.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button17.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="button17.Text" xml:space="preserve">
-    <value>button17</value>
+    <value>21</value>
   </data>
   <data name="&gt;&gt;button17.Name" xml:space="preserve">
     <value>button17</value>
@@ -853,22 +463,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button17.ZOrder" xml:space="preserve">
-    <value>23</value>
-  </data>
-  <data name="button18.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button18.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1225, 64</value>
-  </data>
-  <data name="button18.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button18.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
-  </data>
-  <data name="button18.Text" xml:space="preserve">
-    <value>button18</value>
+    <value>22</value>
   </data>
   <data name="&gt;&gt;button18.Name" xml:space="preserve">
     <value>button18</value>
@@ -880,22 +475,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button18.ZOrder" xml:space="preserve">
-    <value>24</value>
-  </data>
-  <data name="button19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button19.Location" type="System.Drawing.Point, System.Drawing">
-    <value>943, 125</value>
-  </data>
-  <data name="button19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button19.TabIndex" type="System.Int32, mscorlib">
-    <value>18</value>
-  </data>
-  <data name="button19.Text" xml:space="preserve">
-    <value>button19</value>
+    <value>23</value>
   </data>
   <data name="&gt;&gt;button19.Name" xml:space="preserve">
     <value>button19</value>
@@ -907,22 +487,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button19.ZOrder" xml:space="preserve">
-    <value>25</value>
-  </data>
-  <data name="button20.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button20.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1084, 125</value>
-  </data>
-  <data name="button20.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button20.TabIndex" type="System.Int32, mscorlib">
-    <value>19</value>
-  </data>
-  <data name="button20.Text" xml:space="preserve">
-    <value>button20</value>
+    <value>24</value>
   </data>
   <data name="&gt;&gt;button20.Name" xml:space="preserve">
     <value>button20</value>
@@ -934,22 +499,7 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button20.ZOrder" xml:space="preserve">
-    <value>26</value>
-  </data>
-  <data name="button21.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button21.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1225, 125</value>
-  </data>
-  <data name="button21.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 55</value>
-  </data>
-  <data name="button21.TabIndex" type="System.Int32, mscorlib">
-    <value>20</value>
-  </data>
-  <data name="button21.Text" xml:space="preserve">
-    <value>button21</value>
+    <value>25</value>
   </data>
   <data name="&gt;&gt;button21.Name" xml:space="preserve">
     <value>button21</value>
@@ -961,7 +511,187 @@
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;button21.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;button29.Name" xml:space="preserve">
+    <value>button29</value>
+  </data>
+  <data name="&gt;&gt;button29.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button29.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button29.ZOrder" xml:space="preserve">
     <value>27</value>
+  </data>
+  <data name="&gt;&gt;button30.Name" xml:space="preserve">
+    <value>button30</value>
+  </data>
+  <data name="&gt;&gt;button30.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button30.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button30.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="&gt;&gt;button31.Name" xml:space="preserve">
+    <value>button31</value>
+  </data>
+  <data name="&gt;&gt;button31.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button31.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button31.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="&gt;&gt;button32.Name" xml:space="preserve">
+    <value>button32</value>
+  </data>
+  <data name="&gt;&gt;button32.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button32.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button32.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="&gt;&gt;button33.Name" xml:space="preserve">
+    <value>button33</value>
+  </data>
+  <data name="&gt;&gt;button33.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button33.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button33.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="&gt;&gt;button34.Name" xml:space="preserve">
+    <value>button34</value>
+  </data>
+  <data name="&gt;&gt;button34.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button34.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button34.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;button8.Name" xml:space="preserve">
+    <value>button8</value>
+  </data>
+  <data name="&gt;&gt;button8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button8.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button8.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <data name="&gt;&gt;button35.Name" xml:space="preserve">
+    <value>button35</value>
+  </data>
+  <data name="&gt;&gt;button35.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button35.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button35.ZOrder" xml:space="preserve">
+    <value>34</value>
+  </data>
+  <data name="&gt;&gt;button36.Name" xml:space="preserve">
+    <value>button36</value>
+  </data>
+  <data name="&gt;&gt;button36.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button36.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button36.ZOrder" xml:space="preserve">
+    <value>35</value>
+  </data>
+  <data name="&gt;&gt;button37.Name" xml:space="preserve">
+    <value>button37</value>
+  </data>
+  <data name="&gt;&gt;button37.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button37.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button37.ZOrder" xml:space="preserve">
+    <value>36</value>
+  </data>
+  <data name="&gt;&gt;button38.Name" xml:space="preserve">
+    <value>button38</value>
+  </data>
+  <data name="&gt;&gt;button38.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button38.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button38.ZOrder" xml:space="preserve">
+    <value>37</value>
+  </data>
+  <data name="&gt;&gt;button39.Name" xml:space="preserve">
+    <value>button39</value>
+  </data>
+  <data name="&gt;&gt;button39.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button39.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button39.ZOrder" xml:space="preserve">
+    <value>38</value>
+  </data>
+  <data name="&gt;&gt;button40.Name" xml:space="preserve">
+    <value>button40</value>
+  </data>
+  <data name="&gt;&gt;button40.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button40.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button40.ZOrder" xml:space="preserve">
+    <value>39</value>
+  </data>
+  <data name="&gt;&gt;button41.Name" xml:space="preserve">
+    <value>button41</value>
+  </data>
+  <data name="&gt;&gt;button41.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button41.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button41.ZOrder" xml:space="preserve">
+    <value>40</value>
+  </data>
+  <data name="&gt;&gt;button42.Name" xml:space="preserve">
+    <value>button42</value>
+  </data>
+  <data name="&gt;&gt;button42.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button42.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button42.ZOrder" xml:space="preserve">
+    <value>41</value>
   </data>
   <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 111</value>
@@ -970,7 +700,7 @@
     <value>7</value>
   </data>
   <data name="tableLayoutPanel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1363, 428</value>
+    <value>1428, 482</value>
   </data>
   <data name="tableLayoutPanel2.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -985,22 +715,1294 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel2.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="tableLayoutPanel2.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="button1" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button2" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button3" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button4" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="button5" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button6" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button7" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="button27" Row="6" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button28" Row="6" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="button26" Row="6" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button23" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button24" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button25" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="button22" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button8" Row="0" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="button9" Row="1" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="button10" Row="1" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="button11" Row="1" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="button12" Row="2" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="button13" Row="2" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="button14" Row="2" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="button15" Row="0" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="button16" Row="1" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="button17" Row="1" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="button18" Row="1" RowSpan="1" Column="10" ColumnSpan="1" /&gt;&lt;Control Name="button19" Row="2" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="button20" Row="2" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="button21" Row="2" RowSpan="1" Column="10" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,10,34483,Percent,10,34483,Percent,10,34483,Percent,3,448276,Percent,10,34483,Percent,10,34483,Percent,10,34483,Percent,3,448276,Percent,10,34483,Percent,10,34483,Percent,10,34483" /&gt;&lt;Rows Styles="Percent,14,28571,Percent,14,28571,Percent,14,28571,Percent,14,28571,Percent,14,28571,Percent,14,28571,Percent,14,28571" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="button1" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button2" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button3" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button4" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="button5" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button6" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button7" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="button27" Row="6" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button28" Row="6" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="button26" Row="6" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button23" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button24" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button25" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="button22" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button9" Row="1" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="button10" Row="1" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="button11" Row="1" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="button12" Row="2" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="button13" Row="2" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="button14" Row="2" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="button15" Row="0" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="button16" Row="1" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="button17" Row="1" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="button18" Row="1" RowSpan="1" Column="10" ColumnSpan="1" /&gt;&lt;Control Name="button19" Row="2" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="button20" Row="2" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="button21" Row="2" RowSpan="1" Column="10" ColumnSpan="1" /&gt;&lt;Control Name="button29" Row="4" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="button30" Row="5" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="button31" Row="5" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="button32" Row="5" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="button33" Row="6" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;Control Name="button34" Row="6" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="button8" Row="0" RowSpan="1" Column="5" ColumnSpan="1" /&gt;&lt;Control Name="button35" Row="6" RowSpan="1" Column="6" ColumnSpan="1" /&gt;&lt;Control Name="button36" Row="4" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="button37" Row="5" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="button38" Row="5" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="button39" Row="5" RowSpan="1" Column="10" ColumnSpan="1" /&gt;&lt;Control Name="button40" Row="6" RowSpan="1" Column="8" ColumnSpan="1" /&gt;&lt;Control Name="button41" Row="6" RowSpan="1" Column="9" ColumnSpan="1" /&gt;&lt;Control Name="button42" Row="6" RowSpan="1" Column="10" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,10,34483,Percent,10,34483,Percent,10,34483,Percent,3,448276,Percent,10,34483,Percent,10,34483,Percent,10,34483,Percent,3,448276,Percent,10,34483,Percent,10,34483,Percent,10,34483" /&gt;&lt;Rows Styles="Percent,14,28571,Percent,14,28571,Percent,14,28571,Percent,14,28571,Percent,14,28571,Percent,14,28571,Percent,14,28571" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
-  <data name="tableLayoutPanel3.ColumnCount" type="System.Int32, mscorlib">
+  <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI Semibold, 15.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 3</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>1. Grup</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="button2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 71</value>
+  </data>
+  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>A</value>
+  </data>
+  <data name="&gt;&gt;button2.Name" xml:space="preserve">
+    <value>button2</value>
+  </data>
+  <data name="&gt;&gt;button2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="button3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 71</value>
+  </data>
+  <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="button3.Text" xml:space="preserve">
+    <value>B</value>
+  </data>
+  <data name="&gt;&gt;button3.Name" xml:space="preserve">
+    <value>button3</value>
+  </data>
+  <data name="&gt;&gt;button3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="button4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>297, 71</value>
+  </data>
+  <data name="button4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button4.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="button4.Text" xml:space="preserve">
+    <value>C</value>
+  </data>
+  <data name="&gt;&gt;button4.Name" xml:space="preserve">
+    <value>button4</value>
+  </data>
+  <data name="&gt;&gt;button4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button4.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="button5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 139</value>
+  </data>
+  <data name="button5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button5.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="button5.Text" xml:space="preserve">
+    <value>Ç</value>
+  </data>
+  <data name="&gt;&gt;button5.Name" xml:space="preserve">
+    <value>button5</value>
+  </data>
+  <data name="&gt;&gt;button5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button5.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button5.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="button6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 139</value>
+  </data>
+  <data name="button6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button6.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
+  <data name="button6.Text" xml:space="preserve">
+    <value>D</value>
+  </data>
+  <data name="&gt;&gt;button6.Name" xml:space="preserve">
+    <value>button6</value>
+  </data>
+  <data name="&gt;&gt;button6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button6.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button6.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="button7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>297, 139</value>
+  </data>
+  <data name="button7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button7.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="button7.Text" xml:space="preserve">
+    <value>E</value>
+  </data>
+  <data name="&gt;&gt;button7.Name" xml:space="preserve">
+    <value>button7</value>
+  </data>
+  <data name="&gt;&gt;button7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button7.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button7.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="button27.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button27.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button27.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 411</value>
+  </data>
+  <data name="button27.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 68</value>
+  </data>
+  <data name="button27.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="button27.Text" xml:space="preserve">
+    <value>Ş</value>
+  </data>
+  <data name="&gt;&gt;button27.Name" xml:space="preserve">
+    <value>button27</value>
+  </data>
+  <data name="&gt;&gt;button27.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button27.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button27.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="button28.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button28.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button28.Location" type="System.Drawing.Point, System.Drawing">
+    <value>297, 411</value>
+  </data>
+  <data name="button28.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 68</value>
+  </data>
+  <data name="button28.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="button28.Text" xml:space="preserve">
+    <value>T</value>
+  </data>
+  <data name="&gt;&gt;button28.Name" xml:space="preserve">
+    <value>button28</value>
+  </data>
+  <data name="&gt;&gt;button28.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button28.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button28.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="button26.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button26.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button26.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 411</value>
+  </data>
+  <data name="button26.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 68</value>
+  </data>
+  <data name="button26.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="button26.Text" xml:space="preserve">
+    <value>S</value>
+  </data>
+  <data name="&gt;&gt;button26.Name" xml:space="preserve">
+    <value>button26</value>
+  </data>
+  <data name="&gt;&gt;button26.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button26.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button26.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="button23.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button23.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 343</value>
+  </data>
+  <data name="button23.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button23.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="button23.Text" xml:space="preserve">
+    <value>Ö</value>
+  </data>
+  <data name="&gt;&gt;button23.Name" xml:space="preserve">
+    <value>button23</value>
+  </data>
+  <data name="&gt;&gt;button23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button23.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button23.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="button24.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button24.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button24.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 343</value>
+  </data>
+  <data name="button24.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button24.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="button24.Text" xml:space="preserve">
+    <value>P</value>
+  </data>
+  <data name="&gt;&gt;button24.Name" xml:space="preserve">
+    <value>button24</value>
+  </data>
+  <data name="&gt;&gt;button24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button24.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button24.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="button25.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button25.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button25.Location" type="System.Drawing.Point, System.Drawing">
+    <value>297, 343</value>
+  </data>
+  <data name="button25.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button25.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="button25.Text" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="&gt;&gt;button25.Name" xml:space="preserve">
+    <value>button25</value>
+  </data>
+  <data name="&gt;&gt;button25.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button25.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button25.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="button22.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI Semibold, 15.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="button22.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>150, 275</value>
+  </data>
+  <data name="button22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button22.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="button22.Text" xml:space="preserve">
+    <value>4. Grup</value>
+  </data>
+  <data name="&gt;&gt;button22.Name" xml:space="preserve">
+    <value>button22</value>
+  </data>
+  <data name="&gt;&gt;button22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button22.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button22.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="button9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>493, 71</value>
+  </data>
+  <data name="button9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button9.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="button9.Text" xml:space="preserve">
+    <value>F</value>
+  </data>
+  <data name="&gt;&gt;button9.Name" xml:space="preserve">
+    <value>button9</value>
+  </data>
+  <data name="&gt;&gt;button9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button9.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button9.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="button10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>640, 71</value>
+  </data>
+  <data name="button10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button10.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="button10.Text" xml:space="preserve">
+    <value>G</value>
+  </data>
+  <data name="&gt;&gt;button10.Name" xml:space="preserve">
+    <value>button10</value>
+  </data>
+  <data name="&gt;&gt;button10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button10.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button10.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="button11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>787, 71</value>
+  </data>
+  <data name="button11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button11.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="button11.Text" xml:space="preserve">
+    <value>Ğ</value>
+  </data>
+  <data name="&gt;&gt;button11.Name" xml:space="preserve">
+    <value>button11</value>
+  </data>
+  <data name="&gt;&gt;button11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button11.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button11.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="button12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>493, 139</value>
+  </data>
+  <data name="button12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button12.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="button12.Text" xml:space="preserve">
+    <value>H</value>
+  </data>
+  <data name="&gt;&gt;button12.Name" xml:space="preserve">
+    <value>button12</value>
+  </data>
+  <data name="&gt;&gt;button12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button12.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button12.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="button13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>640, 139</value>
+  </data>
+  <data name="button13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button13.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="button13.Text" xml:space="preserve">
+    <value>I</value>
+  </data>
+  <data name="&gt;&gt;button13.Name" xml:space="preserve">
+    <value>button13</value>
+  </data>
+  <data name="&gt;&gt;button13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button13.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button13.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="button14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>787, 139</value>
+  </data>
+  <data name="button14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button14.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="button14.Text" xml:space="preserve">
+    <value>İ</value>
+  </data>
+  <data name="&gt;&gt;button14.Name" xml:space="preserve">
+    <value>button14</value>
+  </data>
+  <data name="&gt;&gt;button14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button14.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button14.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="button15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI Semibold, 15.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="button15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1130, 3</value>
+  </data>
+  <data name="button15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button15.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="button15.Text" xml:space="preserve">
+    <value>3. Grup</value>
+  </data>
+  <data name="&gt;&gt;button15.Name" xml:space="preserve">
+    <value>button15</value>
+  </data>
+  <data name="&gt;&gt;button15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button15.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button15.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="button16.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>983, 71</value>
+  </data>
+  <data name="button16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button16.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="button16.Text" xml:space="preserve">
+    <value>J</value>
+  </data>
+  <data name="&gt;&gt;button16.Name" xml:space="preserve">
+    <value>button16</value>
+  </data>
+  <data name="&gt;&gt;button16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button16.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button16.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="button17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button17.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1130, 71</value>
+  </data>
+  <data name="button17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button17.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="button17.Text" xml:space="preserve">
+    <value>K</value>
+  </data>
+  <data name="&gt;&gt;button17.Name" xml:space="preserve">
+    <value>button17</value>
+  </data>
+  <data name="&gt;&gt;button17.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button17.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button17.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="button18.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button18.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1277, 71</value>
+  </data>
+  <data name="button18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 62</value>
+  </data>
+  <data name="button18.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="button18.Text" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="&gt;&gt;button18.Name" xml:space="preserve">
+    <value>button18</value>
+  </data>
+  <data name="&gt;&gt;button18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button18.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button18.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="button19.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>983, 139</value>
+  </data>
+  <data name="button19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button19.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="button19.Text" xml:space="preserve">
+    <value>M</value>
+  </data>
+  <data name="&gt;&gt;button19.Name" xml:space="preserve">
+    <value>button19</value>
+  </data>
+  <data name="&gt;&gt;button19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button19.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button19.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="button20.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button20.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1130, 139</value>
+  </data>
+  <data name="button20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button20.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="button20.Text" xml:space="preserve">
+    <value>N</value>
+  </data>
+  <data name="&gt;&gt;button20.Name" xml:space="preserve">
+    <value>button20</value>
+  </data>
+  <data name="&gt;&gt;button20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button20.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button20.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="button21.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button21.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button21.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1277, 139</value>
+  </data>
+  <data name="button21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 62</value>
+  </data>
+  <data name="button21.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="button21.Text" xml:space="preserve">
+    <value>O</value>
+  </data>
+  <data name="&gt;&gt;button21.Name" xml:space="preserve">
+    <value>button21</value>
+  </data>
+  <data name="&gt;&gt;button21.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button21.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button21.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="button29.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI Semibold, 15.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="button29.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button29.Location" type="System.Drawing.Point, System.Drawing">
+    <value>640, 275</value>
+  </data>
+  <data name="button29.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button29.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="button29.Text" xml:space="preserve">
+    <value>5. Grup</value>
+  </data>
+  <data name="&gt;&gt;button29.Name" xml:space="preserve">
+    <value>button29</value>
+  </data>
+  <data name="&gt;&gt;button29.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button29.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button29.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="button30.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button30.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button30.Location" type="System.Drawing.Point, System.Drawing">
+    <value>493, 343</value>
+  </data>
+  <data name="button30.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button30.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="button30.Text" xml:space="preserve">
+    <value>U</value>
+  </data>
+  <data name="&gt;&gt;button30.Name" xml:space="preserve">
+    <value>button30</value>
+  </data>
+  <data name="&gt;&gt;button30.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button30.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button30.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="button31.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button31.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button31.Location" type="System.Drawing.Point, System.Drawing">
+    <value>640, 343</value>
+  </data>
+  <data name="button31.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button31.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="button31.Text" xml:space="preserve">
+    <value>Ü</value>
+  </data>
+  <data name="&gt;&gt;button31.Name" xml:space="preserve">
+    <value>button31</value>
+  </data>
+  <data name="&gt;&gt;button31.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button31.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button31.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="button32.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button32.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button32.Location" type="System.Drawing.Point, System.Drawing">
+    <value>787, 343</value>
+  </data>
+  <data name="button32.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button32.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="button32.Text" xml:space="preserve">
+    <value>V</value>
+  </data>
+  <data name="&gt;&gt;button32.Name" xml:space="preserve">
+    <value>button32</value>
+  </data>
+  <data name="&gt;&gt;button32.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button32.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button32.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="button33.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button33.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button33.Location" type="System.Drawing.Point, System.Drawing">
+    <value>493, 411</value>
+  </data>
+  <data name="button33.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 68</value>
+  </data>
+  <data name="button33.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="button33.Text" xml:space="preserve">
+    <value>Y</value>
+  </data>
+  <data name="&gt;&gt;button33.Name" xml:space="preserve">
+    <value>button33</value>
+  </data>
+  <data name="&gt;&gt;button33.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button33.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button33.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="button34.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button34.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button34.Location" type="System.Drawing.Point, System.Drawing">
+    <value>640, 411</value>
+  </data>
+  <data name="button34.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 68</value>
+  </data>
+  <data name="button34.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="button34.Text" xml:space="preserve">
+    <value>Z</value>
+  </data>
+  <data name="&gt;&gt;button34.Name" xml:space="preserve">
+    <value>button34</value>
+  </data>
+  <data name="&gt;&gt;button34.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button34.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button34.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="button8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI Semibold, 15.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="button8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>640, 3</value>
+  </data>
+  <data name="button8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button8.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="button8.Text" xml:space="preserve">
+    <value>2. Grup</value>
+  </data>
+  <data name="&gt;&gt;button8.Name" xml:space="preserve">
+    <value>button8</value>
+  </data>
+  <data name="&gt;&gt;button8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button8.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button8.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <data name="button35.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 18pt, style=Bold</value>
+  </data>
+  <data name="button35.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button35.Location" type="System.Drawing.Point, System.Drawing">
+    <value>787, 411</value>
+  </data>
+  <data name="button35.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 68</value>
+  </data>
+  <data name="button35.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="button35.Text" xml:space="preserve">
+    <value>BOŞLUK</value>
+  </data>
+  <data name="&gt;&gt;button35.Name" xml:space="preserve">
+    <value>button35</value>
+  </data>
+  <data name="&gt;&gt;button35.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button35.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button35.ZOrder" xml:space="preserve">
+    <value>34</value>
+  </data>
+  <data name="button36.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI Semibold, 15.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="button36.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button36.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1130, 275</value>
+  </data>
+  <data name="button36.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button36.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="button36.Text" xml:space="preserve">
+    <value>6. Grup</value>
+  </data>
+  <data name="&gt;&gt;button36.Name" xml:space="preserve">
+    <value>button36</value>
+  </data>
+  <data name="&gt;&gt;button36.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button36.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button36.ZOrder" xml:space="preserve">
+    <value>35</value>
+  </data>
+  <data name="button37.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 14.25pt, style=Bold</value>
+  </data>
+  <data name="button37.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button37.Location" type="System.Drawing.Point, System.Drawing">
+    <value>983, 343</value>
+  </data>
+  <data name="button37.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button37.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="button37.Text" xml:space="preserve">
+    <value>SİL</value>
+  </data>
+  <data name="&gt;&gt;button37.Name" xml:space="preserve">
+    <value>button37</value>
+  </data>
+  <data name="&gt;&gt;button37.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button37.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button37.ZOrder" xml:space="preserve">
+    <value>36</value>
+  </data>
+  <data name="button38.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 14.25pt, style=Bold</value>
+  </data>
+  <data name="button38.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button38.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1130, 343</value>
+  </data>
+  <data name="button38.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 62</value>
+  </data>
+  <data name="button38.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="button38.Text" xml:space="preserve">
+    <value>TÜMÜNÜ SİL</value>
+  </data>
+  <data name="&gt;&gt;button38.Name" xml:space="preserve">
+    <value>button38</value>
+  </data>
+  <data name="&gt;&gt;button38.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button38.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button38.ZOrder" xml:space="preserve">
+    <value>37</value>
+  </data>
+  <data name="button39.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 14.25pt, style=Bold</value>
+  </data>
+  <data name="button39.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button39.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1277, 343</value>
+  </data>
+  <data name="button39.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 62</value>
+  </data>
+  <data name="button39.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="button39.Text" xml:space="preserve">
+    <value>NOKTA</value>
+  </data>
+  <data name="&gt;&gt;button39.Name" xml:space="preserve">
+    <value>button39</value>
+  </data>
+  <data name="&gt;&gt;button39.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button39.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button39.ZOrder" xml:space="preserve">
+    <value>38</value>
+  </data>
+  <data name="button40.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 14.25pt, style=Bold</value>
+  </data>
+  <data name="button40.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button40.Location" type="System.Drawing.Point, System.Drawing">
+    <value>983, 411</value>
+  </data>
+  <data name="button40.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 68</value>
+  </data>
+  <data name="button40.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="button40.Text" xml:space="preserve">
+    <value>VİRGÜL</value>
+  </data>
+  <data name="&gt;&gt;button40.Name" xml:space="preserve">
+    <value>button40</value>
+  </data>
+  <data name="&gt;&gt;button40.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button40.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button40.ZOrder" xml:space="preserve">
+    <value>39</value>
+  </data>
+  <data name="button41.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 14.25pt, style=Bold</value>
+  </data>
+  <data name="button41.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button41.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1130, 411</value>
+  </data>
+  <data name="button41.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 68</value>
+  </data>
+  <data name="button41.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="button41.Text" xml:space="preserve">
+    <value>SORU</value>
+  </data>
+  <data name="&gt;&gt;button41.Name" xml:space="preserve">
+    <value>button41</value>
+  </data>
+  <data name="&gt;&gt;button41.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button41.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button41.ZOrder" xml:space="preserve">
+    <value>40</value>
+  </data>
+  <data name="button42.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 14.25pt, style=Bold</value>
+  </data>
+  <data name="button42.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1277, 411</value>
+  </data>
+  <data name="button42.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 68</value>
+  </data>
+  <data name="button42.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="button42.Text" xml:space="preserve">
+    <value>ÜNLEM</value>
+  </data>
+  <data name="&gt;&gt;button42.Name" xml:space="preserve">
+    <value>button42</value>
+  </data>
+  <data name="&gt;&gt;button42.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button42.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button42.ZOrder" xml:space="preserve">
+    <value>41</value>
+  </data>
+  <data name="tableLayoutPanel3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left, Right</value>
+  </data>
+  <data name="tableLayoutPanel3.ColumnCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Speak.Name" xml:space="preserve">
+    <value>Speak</value>
+  </data>
+  <data name="&gt;&gt;Speak.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Speak.Parent" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
+  </data>
+  <data name="&gt;&gt;Speak.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <data name="tableLayoutPanel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 545</value>
+    <value>12, 599</value>
   </data>
   <data name="tableLayoutPanel3.RowCount" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
   <data name="tableLayoutPanel3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1363, 73</value>
+    <value>1267, 73</value>
   </data>
   <data name="tableLayoutPanel3.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1018,8 +2020,118 @@
     <value>0</value>
   </data>
   <data name="tableLayoutPanel3.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="Speak" Row="0" RowSpan="1" Column="4" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,20,Percent,20,Percent,20,Percent,20,Percent,20" /&gt;&lt;Rows Styles="Percent,50,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="Speak" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
+  <data name="Speak.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAAdgAAAHYAfpcpnIAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwa
+        AAAHVUlEQVR4Xs2bdag1RRjGr92d2N1d2IGtiJ0ogh2oiIX6h4rdnx0YiAm2YndigR1YiIF+n90dz+94
+        H765e7fO2Zlz9oEf9+6c2Tk7sxPv+86coYSaWKwhDhJXiMfEu+Ib8av4t0t+E1+IZ8VFYjsxlWiVphG7
+        ijvEDyKvIjH5UVwqFhAD1eLiEvGTyHvQr8RT4gZxrjhtmLPE5eIe8bb4XeTdz+fcd5N4RmTz/SEobwrR
+        Vy0ibhR/i/CBqPBVYhcxt6irycW64kLxnXB5DJmDhTWt2FHcK8LvfU0sKpKLlj5F0PL+chrhLrGZmEQ0
+        1fSCtxp+x9liAhFqHfGCcB4afxWRTJOKN4S/kIpfKxYWKbSS+Fj4+04WWTHhni+ch4l2KZFEMwq/lefF
+        ciK15hCsIHznP2IHkacDBJ+T70NBL0qi1cU2YsLOVX80n6B7U7kvxcwiTwxN8gA9s7Ho8vsIuuKgtaVw
+        5S4jIUe8FFYN8tAb1haNROUpjHGVnYAGobsFz8NSOCcJOVpIeKl8lIQmWllQ+Vs7V4MXMzwVg2NIKFA4
+        KSabEAcl1nsq9pYo6pXYKG6AU0noRoz7mf7/t5U6Sbhy2B1FelOQ56XOVU1h5LDOs9Qx27dR4WRYNsbP
+        EOT5S0xGQh3RXVw4S10btazwM8LSIk/7CudZgoQqMW5s5Dwn+rnOd6P5hSsGJ4g8bSGcZy0SqoS3RWbM
+        235YeL1qMeGKwasiT1TaeTYioUx0EXt1USyohNpQuGIGSzGrbYU/JzhTKgILZKQRUjk2sXSUcMVMnn9A
+        NMqfL0hCkYjkOJiBS9t2PSJ41veFw2v4AFn5pf4iJiKhSISxyAibktBizSM8VHGNbRRh/4diAv9M8Fml
+        OXynICNeVoxgRkpdIHhWYPm7efj/10WoVYXzHUFCkaiwA5iEsdoswmvu8veRIBGL5PqTztV44buQjhFU
+        5DR1hLVHRtiZhBbrFsFz4ubyhtHpgjQixFa4/BGzLBXBRmeei4SWaivh57yOhGEdJ5yOY8ReAXYB17jE
+        lUHSKwWZGf9tFWs8LjnPyd/ZhBU2AE4cq5ivjxeVelyQmbh9G0UI/GXBM9L1s/6JAzbwSvD/E6LWhM5a
+        yg1sWrRNeKYsYa4UmyNZkccBU8Mmyyyilr4V3DSmc9UeEX1+WrhSt4kiY4ZJz7YBqwRR5Npi05Eb8yyp
+        QQm/hGiPK/+gYNeoTOcJ58cErq0/BTcRZRm0mMUZ0z8LV+Z6weRWJWb/DwT3YNbX3jD17EoLDlIEO9n6
+        dsUxYJjFu4lErye8McLcUevejwQ3XN256r82ENjxfnDAqmPPrxddLFzO/iRUyUtHP71AJrOdhJc3w3xE
+        SA7vtFdxr18qvXtKUSrbzCwl/RB+eTi7A2OWUx+EumIojGsSPywV8TQyMuZSHzBgjIYnRzjycrSYQcQQ
+        5TBpuvyvRWWdiKT4hpT76ox1e3Ks2ez1x2zwjcWnwnXBtM/uC7KNPspAIsDgm44lIYFwY3kgvoNxHjvc
+        jj8QTqLMZ6G/sLzA0Bsn6OmbixEimMCNnL9JoYcE5efZ8jFEV6f878UeJAyLHoaP44Yxe4kRCndQZiUh
+        ogix+YtT2RpUnPLP6VyNF8Fd9wyGHRYlq8+o/Y7VhB+SSSmm8Mool8MN05GQQG4A5pWsCPIcLioPa3lN
+        Zg0tjaB2IQIsYQAzlcoaoLb2FhQC25MQQYxHl1m5HvegNcXtwt28UQPgTDBLUtB7oo4DUiX8d8rD0Im1
+        z4h9zzFZ9i7duIBTVxTSZ17bU+BohYwKlx0oXOAhJDQUb4eyMLdjKbsrxMTNaVP2C4vE0d3wHsO+wQgR
+        QnpH8CGBknlFE/k8D8fpYolJOqwE8MxMdEUhsBNF9h5waH2ENhEeU0+KJhPiA4Jy6K6xxBBg25veFZ4i
+        hcNEkXCSMJVDCsVZXReKldWrXhSUkSrgytg+VLghGk2CobCgfL6G3rCb6FZMorbQUm+3R1kGsyIu5wrQ
+        wjgb3Whrwb3ADJxSRQ3AuSBOlDMEmdRrR4ot1lm2limcv1SqjqYW7kFsWZWOt4bCw3Ngl9PloVjmSDe8
+        SOIfs4vaYkvKY4wlh6WyTNgTXv6gyRxSR7wkf9d+JGREhDi7b3Ck6EqcrwkDGbRiNnqDoYPPH4azmfxi
+        GFRFwr63J8s+YNHeJisHR2SwF+4XPS3vK4jPhSuHjc/hBA5Wsd4TyPRnQOXZ3KgSDYdxw+HnbiCQyvDy
+        9/VlX4MgA1toYUWzMFcQZqt7MDHswr3Cr9JiOXC1tKQgjO4H4O1zUoPx1u2Ex+bnw4JNDWMPksYM00OY
+        ZOl964uBiCWHh8ROiPlDJcqyJZrShW4kDCX/eoO3F1NnCjcs5/5bqd0FDwm4prHEmu6Jll+atlbew+Nh
+        Y54qI2DqhuXoXiu1jPBD4mbGFEsb5fKjycotrUHJx9KYqfPO5/YqjrJhaVI2G5ytlbfTMX5iKoxGrUhC
+        W8XeG2M/9kPys7yx4prOVV80NPQfL7XGDpSmSWEAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="Speak.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Speak.Location" type="System.Drawing.Point, System.Drawing">
+    <value>636, 3</value>
+  </data>
+  <data name="Speak.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="Speak.Size" type="System.Drawing.Size, System.Drawing">
+    <value>155, 67</value>
+  </data>
+  <data name="Speak.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Speak.Name" xml:space="preserve">
+    <value>Speak</value>
+  </data>
+  <data name="&gt;&gt;Speak.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Speak.Parent" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
+  </data>
+  <data name="&gt;&gt;Speak.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI Light, 11.25pt, style=Italic</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1285, 655</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>164, 20</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>HAZIRLAYAN: BARIŞ KOL</value>
+  </data>
+  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomRight</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="timer2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>104, 17</value>
+  </metadata>
+  <metadata name="serialPort1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>191, 17</value>
+  </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
@@ -1027,7 +2139,7 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1387, 630</value>
+    <value>1452, 684</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1105,8 +2217,29 @@
         gYGAAYABgAGAAYADwAHAA8AD4AfgB/AP8A8=
 </value>
   </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Form1</value>
+    <value>YAZAN GÖZLER</value>
+  </data>
+  <data name="&gt;&gt;timer1.Name" xml:space="preserve">
+    <value>timer1</value>
+  </data>
+  <data name="&gt;&gt;timer1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;timer2.Name" xml:space="preserve">
+    <value>timer2</value>
+  </data>
+  <data name="&gt;&gt;timer2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;serialPort1.Name" xml:space="preserve">
+    <value>serialPort1</value>
+  </data>
+  <data name="&gt;&gt;serialPort1.Type" xml:space="preserve">
+    <value>System.IO.Ports.SerialPort, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Form1</value>
